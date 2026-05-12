@@ -114,6 +114,7 @@ Install all dependencies listed in _requirements.txt_ file.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/Inshorts-News-API/tree/master)
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/cyberboysumanjay/Inshorts-News-API/tree/master)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=cyberboysumanjay/Inshorts-News-API&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 ---
 
